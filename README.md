@@ -12,7 +12,7 @@ Practical networking, security, and systems administration case studies built in
 
 ### Project Deliverables
 * [View Complete Technical Case Study (PDF)](./Case-Study-1-AutoMoto-Dealership/AutoMoto%20Dealership.docx)
-* [Download Cisco Packet Tracer Topology (.pkt)](./Case-Study-1-AutoMoto-Dealership/AutoMoto%Dealership.pkt)
+* [Download Cisco Packet Tracer Topology (.pkt)](./Case-Study-1-AutoMoto-Dealership/AutoMoto%20Dealership.pkt)
 
 ### Key Technical Achievements
 * **Layer 2 Segmentation:** Partitioned a two-floor office into 3 VLANs (`VLAN 10` Showroom, `VLAN 20` Finance, `VLAN 30` Server) across two Cisco 2960 switches linked via 802.1Q trunking.
