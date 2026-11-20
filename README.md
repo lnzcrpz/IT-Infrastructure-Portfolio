@@ -11,8 +11,8 @@ Practical networking, security, and systems administration case studies built in
 **Technologies Applied:** Cisco IOS, VLANs, 802.1Q Trunking, Router-on-a-Stick, DHCP, Extended Access Control Lists (ACLs), Internal DNS & HTTP.
 
 ### Project Deliverables
-* [View Complete Technical Case Study (PDF)](./Case-Study-1-AutoMoto-Dealership/AutoMoto%20Documentation%20File.pdf)
-* [Download Cisco Packet Tracer Topology (.pkt)](./Case-Study-1-AutoMoto-Dealership/AutoMoto%20Packet%20Tracer%20File.pkt)
+* [View Complete Technical Case Study (PDF)](./Case-Study-1-AutoMoto-Dealership/AutoMoto%20Dealership.docx)
+* [Download Cisco Packet Tracer Topology (.pkt)](./Case-Study-1-AutoMoto-Dealership/AutoMoto%Dealership.pkt)
 
 ### Key Technical Achievements
 * **Layer 2 Segmentation:** Partitioned a two-floor office into 3 VLANs (`VLAN 10` Showroom, `VLAN 20` Finance, `VLAN 30` Server) across two Cisco 2960 switches linked via 802.1Q trunking.
